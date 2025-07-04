@@ -1,0 +1,289 @@
+# Global Garner Knowledge Base - RAG Optimized
+
+## Company Overview
+
+### Global Garner Sales Services Limited
+- **Founded**: 2016
+- **Founder**: Vikas Rawat
+- **Headquarters**: Ahmedabad, India
+- **Company Type**: Technology-driven commerce and marketing company
+- **Business Model**: Post-Paid Sales Service (commission-only, no upfront costs)
+- **Vision**: Transform business growth by eliminating upfront marketing costs and ensuring profitability through performance-based models
+
+### Global Garner Consultancy Services
+- **Parent Company**: Global Garner Sales Services Limited
+- **Focus**: SaaS product development and digital transformation solutions
+- **Launch Year**: 2025 (for new SaaS products)
+
+## Core Products and Services
+
+### 1. Universal Cashback App
+**Category**: Consumer Mobile Application
+**Target Users**: End consumers, shoppers
+
+**Key Features**:
+- Real cashback up to 100% on shopping, utility bills, mobile recharges, and travel bookings
+- Dual cashback system: GG Coins (instant) and GG Money (real cash post-verification)
+- Shopping integration with broad ecosystem of brands and merchants
+- Utility bill payments for mobile, electricity, DTH with cashback incentives
+- Travel bookings for flights, buses, hotels, and holiday packages
+- Patented cashback system ensuring immediate and long-term consumer value
+
+**Usage**: Continuous shopping, cashback earning, bill payments, travel bookings
+
+### 2. Post-Paid Sales Service
+**Category**: Business Model / Vendor Service
+**Target Users**: Businesses, vendors, retailers
+
+**Key Features**:
+- Zero upfront cost for registration and onboarding
+- Commission-based model - vendors pay only after successful sales
+- Free digitalization package included
+- Online presence through GG website and mobile app listings
+- No fixed charges, only commission deducted post-transaction
+
+**Process Flow**:
+1. Onboarding: Receive digitalization package upon registration
+2. Ongoing: Sales facilitation and marketing via Global Garner platforms
+3. Continuous: Enhanced digital presence via listings, catalog, and vendor dashboard
+
+### 3. UPOS - The Digital Mall
+**Category**: Franchise-as-a-Service (FaaS) Platform
+**Target Users**: Individual entrepreneurs, franchise seekers
+
+**Key Features**:
+- Digital franchise ownership with multiple tiers (Silver, Gold, Professional)
+- Access to 20+ crore (200M+) products from e-commerce platforms and local sellers
+- No inventory or warehousing requirements
+- Integrated services: shopping, bill payments, travel bookings
+- Commission earned on every sale
+- Phygital strategy combining digital tools with physical sales efforts
+
+**Process Flow**:
+1. Initial Investment: Acquire UPOS digital franchise
+2. Daily Operations: Sell products, manage orders/customers, track commissions
+3. Ongoing Engagement: Leverage both digital platform and physical interactions
+
+### 4. GG Vendor App & Dashboard
+**Category**: SaaS Tool (Mobile + Web)
+**Target Users**: Registered vendors and businesses
+
+**Key Features**:
+- Catalog management: Add/edit product listings, inventory management
+- Order fulfillment: Track and manage customer orders
+- Payment tracking: View transaction history and payout records
+- Sales analytics: Monitor performance via daily/weekly/monthly reports
+- Customer reviews: Respond to feedback, improve credibility
+
+**Usage Timeline**:
+- Post-Registration: Businesses begin managing digital storefronts
+- Daily Use: Manage products, process orders, check payments, engage with customers
+
+### 5. GG Mall
+**Category**: Online Marketplace
+**Target Users**: Consumers (buyers) and Vendors (sellers)
+
+**Key Features**:
+- Turnkey online store solution for vendors
+- Wide reach through integration with Universal Cashback App
+- Real-time listing of products from registered vendors
+- Unified marketplace interface for both consumers and businesses
+- Automatic listing upon joining Global Garner ecosystem
+
+## New SaaS Products (2025 Launch)
+
+### 1. GG LocalPulse
+**Category**: Content Monetization & Engagement
+**Target Users**: Local influencers, creators, publishers, NGOs
+
+**Key Features**:
+- White-label digital platform for building personal news/media empires
+- Fully branded mobile app and web presence
+- Revenue channels: subscriptions, ads, premium content
+- Live content and newsletter support
+- Monetization returns up to 20× vs standard platforms
+- Real-time content publishing tools
+- Community engagement features
+
+**SEO Keywords**: White-label news app, creator monetization platform, local content publishing, subscription revenue for influencers, branded mobile app for creators
+
+### 2. GG EduCore360
+**Category**: Educational Institution Management
+**Target Users**: Schools, coaching centers, training institutes
+
+**Key Features**:
+- Complete digital suite for educational institutions
+- Mobile + web platform
+- Fee automation & online payment systems
+- Student-teacher-parent communication tools
+- Admin dashboard and real-time reports
+- Operations management and student engagement tools
+
+**SEO Keywords**: School management software, EdTech operational tools, fee automation for schools, student-parent communication app, online payment for education
+
+### 3. GG PrepMaster
+**Category**: Test Preparation & Assessment
+**Target Users**: Coaching centers, exam prep institutes
+
+**Key Features**:
+- Online mock test platform
+- Adaptive assessment tools
+- Performance tracking and feedback
+- Exam prep analytics
+- Coaching center test software
+- Competitive exam preparation tools
+- AI-based test recommendations
+- Customizable question banks
+
+**SEO Keywords**: Online mock test platform, adaptive assessment tools, exam prep analytics, coaching center test software, performance tracking for students
+
+### 4. GG EduSphere
+**Category**: Education Ecosystem Platform
+**Target Users**: Universities, e-learning platforms
+
+**Key Features**:
+- Learning Management System (LMS) & content management
+- Virtual classrooms
+- Certification tools
+- University LMS platform
+- E-learning ecosystem
+- SCORM-compliant authoring tools
+- Blended learning solutions
+- Student progress analytics
+
+**SEO Keywords**: University LMS platform, e-learning ecosystem, virtual classroom software, certification management system
+
+### 5. GG PharmaSphere360
+**Category**: Pharma & Healthcare Management
+**Target Users**: Pharmacies, medical suppliers, B2B pharma chains
+
+**Key Features**:
+- Pharmacy inventory management
+- Sales/order tracking
+- Supplier collaboration tools
+- Drug stock optimization
+- Medical supplier collaboration
+- Order tracking for pharmacies
+- Expiry alert system
+- Purchase order automation
+
+**SEO Keywords**: Pharmacy inventory management, B2B pharma supply chain software, drug stock optimization, medical supplier collaboration
+
+### 6. GG VendoStream
+**Category**: Video E-commerce & Vendor Operations
+**Target Users**: Retailers, manufacturers, e-commerce sellers
+
+**Key Features**:
+- Sales analytics dashboard
+- Order and payment flow management
+- Vendor-customer communication
+- Smart commerce dashboard
+- B2B sales analytics
+- Order flow automation
+- Payment reconciliation for sellers
+- Multi-channel vendor software
+
+**SEO Keywords**: Vendor management platform, smart commerce dashboard, B2B sales analytics, order flow automation
+
+### 7. FranchiseBuilder360
+**Category**: Franchise Management System
+**Target Users**: Franchise businesses & startups
+
+**Key Features**:
+- Franchise performance dashboard
+- Centralized document & process management
+- Onboarding & operations automation
+- Franchise onboarding software
+- Multi-location operations tool
+- Standardized process automation
+- Royalty tracking system
+- Brand compliance software
+
+**SEO Keywords**: Franchise management system, franchise onboarding software, multi-location operations tool, franchise performance analytics
+
+## Business Model and Revenue Streams
+
+### Revenue Model
+- **Commission-based**: Vendors pay only after successful sales
+- **Franchise fees**: UPOS digital franchise tiers
+- **SaaS subscriptions**: Monthly/annual subscriptions for software products
+- **Transaction fees**: Small percentage on cashback transactions
+
+### Value Proposition
+- **For Vendors**: Zero upfront costs, pay-on-sale model, free digitalization
+- **For Consumers**: Real cashback up to 100%, wide variety of products and services
+- **For Franchisees**: No inventory requirements, access to millions of products
+- **For Institutions**: Complete digital transformation solutions
+
+## Target Markets and Industries
+
+### Primary Industries Served
+1. **E-commerce and Retail**: Vendors, sellers, retailers
+2. **Education**: Schools, coaching centers, universities, training institutes
+3. **Healthcare and Pharma**: Pharmacies, medical suppliers, B2B pharma chains
+4. **Content and Media**: Local influencers, creators, publishers, NGOs
+5. **Franchise Businesses**: Multi-location operations, franchise chains
+
+### Geographic Focus
+- **Primary Market**: India
+- **Headquarters**: Ahmedabad, Gujarat
+
+## Competitive Advantages
+
+### Unique Selling Points
+1. **Post-Paid Model**: Only platform offering commission-only, no upfront cost model
+2. **Comprehensive Ecosystem**: Single platform for shopping, cashback, vendor management, and franchise operations
+3. **Real Cashback**: Up to 100% cashback with patented dual-coin system
+4. **Inventory-Free Franchise**: UPOS allows franchise ownership without inventory
+5. **Industry-Specific SaaS**: Tailored solutions for education, pharma, and content sectors
+
+### Technology Stack
+- **Mobile Applications**: iOS and Android apps for consumers and vendors
+- **Web Platforms**: Dashboard and management interfaces
+- **SaaS Architecture**: Cloud-based solutions for scalability
+- **Payment Integration**: Secure payment gateways for transactions
+- **Analytics**: Real-time reporting and performance tracking
+
+## Contact and Support Information
+
+### Company Details
+- **Official Name**: Global Garner Sales Services Limited
+- **Location**: Ahmedabad, Gujarat, India
+- **Founded**: 2016
+- **Founder**: Vikas Rawat
+
+### Product Inquiries
+- **Consumer Products**: Universal Cashback App, GG Mall
+- **Business Solutions**: Post-Paid Sales Service, GG Vendor Dashboard
+- **Franchise Opportunities**: UPOS Digital Mall
+- **SaaS Products**: Contact for custom solutions and pricing
+
+## FAQ Section
+
+### For Vendors
+**Q: How much does it cost to list products on Global Garner?**
+A: There are no upfront costs. Vendors only pay a commission after successful sales.
+
+**Q: What is included in the digitalization package?**
+A: Free online storefront, product catalog management, order tracking, and listing on GG Mall and mobile app.
+
+### For Consumers
+**Q: How does the cashback system work?**
+A: Earn GG Coins instantly and GG Money (real cash) after purchase verification. Cashback can be up to 100% on select purchases.
+
+**Q: Can I use the app for bill payments?**
+A: Yes, pay mobile, electricity, DTH, and other utility bills with cashback benefits.
+
+### For Franchisees
+**Q: Do I need inventory for UPOS digital franchise?**
+A: No, UPOS provides access to 20+ crore products without requiring inventory or warehousing.
+
+**Q: What are the franchise tiers available?**
+A: Silver, Gold, and Professional tiers with different features and commission structures.
+
+### For Institutions
+**Q: Which SaaS products are available for schools?**
+A: GG EduCore360 for school management, GG PrepMaster for test preparation, and GG EduSphere for comprehensive education ecosystem.
+
+**Q: Do you offer custom SaaS solutions?**
+A: Yes, we provide industry-specific solutions for education, healthcare, pharma, and other sectors.
