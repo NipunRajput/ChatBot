@@ -17,7 +17,7 @@ CORS(app)
 GROQ_API_KEY =os.getenv("GROQ_API")
 GROQ_MODEL = os.getenv("MODEL")
 GROQ_API_URL = os.getenv("API_URL")
-MODEL =os.getenv("MODEL_UPI")
+EMBEDDING_MODEL =os.getenv("MODEL_UPI")
 
 # Load and preprocess knowledge base
 def load_knowledge_base():
