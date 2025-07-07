@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.ipynb
+*.log
+.env
+node_modules/
+dist/
+.vscode/
